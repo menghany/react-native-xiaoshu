@@ -2,11 +2,9 @@
 title: Steps 步骤条
 nav:
   title: 组件
-  path: /component
 group:
   title: 导航组件
-  path: /nav
-  order: 4
+  order: 5
 ---
 
 # Steps 步骤条
@@ -21,11 +19,11 @@ group:
 
 ### Steps
 
-<API hideTitle src="./steps.tsx"></API>
+<!-- <API hideTitle src="./steps.tsx"></API> -->
 
 ### Step
 
-<API hideTitle src="./step.tsx"></API>
+<!-- <API hideTitle src="./step.tsx"></API> -->
 
 ## TODO
 

@@ -2,11 +2,9 @@
 title: Field 输入项
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # Field 输入项
@@ -64,43 +62,43 @@ group:
 
 ### Field.Text
 
-<API hideTitle src="./field-text.tsx"></API>
+<!-- <API hideTitle src="./field-text.tsx"></API> -->
 
 ### Field.Selector
 
-<API hideTitle src="./field-selector.tsx"></API>
+<!-- <API hideTitle src="./field-selector.tsx"></API> -->
 
 ### Field.TextInput
 
-<API hideTitle src="./field-text-input.tsx"></API>
+<!-- <API hideTitle src="./field-text-input.tsx"></API> -->
 
 ### Field.NumberInput
 
-<API hideTitle src="./field-number-input.tsx"></API>
+<!-- <API hideTitle src="./field-number-input.tsx"></API> -->
 
 ### Field.Switch
 
-<API hideTitle src="./field-switch.tsx"></API>
+<!-- <API hideTitle src="./field-switch.tsx"></API> -->
 
 ### Field.Date
 
-<API hideTitle src="./field-date.tsx"></API>
+<!-- <API hideTitle src="./field-date.tsx"></API> -->
 
 ### Field.DateRange
 
-<API hideTitle src="./field-date-range.tsx"></API>
+<!-- <API hideTitle src="./field-date-range.tsx"></API> -->
 
 ### Field.Checkbox
 
-<API hideTitle src="./field-checkbox.tsx"></API>
+<!-- <API hideTitle src="./field-checkbox.tsx"></API> -->
 
 ### Field.Password
 
-<API hideTitle src="./field-password.tsx"></API>
+<!-- <API hideTitle src="./field-password.tsx"></API> -->
 
 ### Field.ButtonOption
 
-<API hideTitle src="./field-button-option.tsx"></API>
+<!-- <API hideTitle src="./field-button-option.tsx"></API> -->
 
 ## 主题定制
 

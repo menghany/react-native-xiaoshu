@@ -2,11 +2,9 @@
 title: Card 卡片
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Card 卡片
@@ -47,7 +45,7 @@ group:
 
 ## API
 
-<API hideTitle src="./card.tsx"></API>
+<API hideTitle id="Card"></API>
 
 ## 主题定制
 

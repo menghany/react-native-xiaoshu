@@ -1,5 +1,5 @@
 import React, { useMemo, memo } from 'react'
-import type { ViewStyle } from 'react-native'
+import type { ViewStyle, DimensionValue } from 'react-native'
 import { View } from 'react-native'
 
 import Theme from '../theme'
@@ -25,7 +25,7 @@ const DividerLine: React.FC<DividerLineProps> = ({
       return {
         flex: 1,
         width: 1,
-        height: '100%',
+        height: '100%' as DimensionValue,
         backgroundColor: color,
       }
     }
@@ -46,10 +46,11 @@ const DividerLine: React.FC<DividerLineProps> = ({
     }
 
     if (!adaptive) {
-      s.maxWidth =
+      s.maxWidth = (
         position === 'left'
           ? VC.divider_content_left_width
           : VC.divider_content_right_width
+      ) as DimensionValue
     }
 
     return s

@@ -1,6 +1,6 @@
 /**
  * title: 文案模式
- * desc: 适用于单位切换
+ * description: 适用于单位切换
  */
 
 import React, { useState } from 'react'

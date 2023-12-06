@@ -2,11 +2,9 @@
 title: Space 间距
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 0
+  order: 1
 ---
 
 # Space 间距
@@ -32,7 +30,7 @@ group:
 
 - `shrink` <Badge>0.3.17+</Badge>
 
-<API hideTitle></API>
+<API hideTitle id="Space"></API>
 
 ## 主题定制
 

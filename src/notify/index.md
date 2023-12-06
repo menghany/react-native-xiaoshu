@@ -2,11 +2,9 @@
 title: Notify 消息提示
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # Notify 消息提示
@@ -19,7 +17,7 @@ group:
 
 ## API
 
-<API hideTitle src="./notify.tsx"></API>
+<API hideTitle id="Notify"></API>
 
 ## 主题定制
 

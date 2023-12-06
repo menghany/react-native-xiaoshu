@@ -2,11 +2,9 @@
 title: Flex 布局
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Flex 布局
@@ -21,8 +19,8 @@ group:
 
 ### Flex
 
-<API hideTitle></API>
+<!-- <API hideTitle></API> -->
 
 ### Flex.Item
 
-<API hideTitle src="./flex-item.tsx"></API>
+<!-- <API hideTitle src="./flex-item.tsx"></API> -->

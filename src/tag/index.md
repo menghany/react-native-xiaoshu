@@ -2,11 +2,9 @@
 title: Tag 标签
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Tag 标签
@@ -19,7 +17,7 @@ group:
 
 ## API
 
-<API hideTitle src="./tag.tsx"></API>
+<API hideTitle id="Tag"></API>
 
 ## 主题定制
 

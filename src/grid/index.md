@@ -2,11 +2,9 @@
 title: Grid 栅格
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 4
+  order: 1
 ---
 
 # Grid 栅格
@@ -30,8 +28,8 @@ group:
 
 ### Row
 
-<API hideTitle src="./row.tsx"></API>
+<!-- <API hideTitle src="./row.tsx"></API> -->
 
 ### Col
 
-<API hideTitle src="./col.tsx"></API>
+<!-- <API hideTitle src="./col.tsx"></API> -->

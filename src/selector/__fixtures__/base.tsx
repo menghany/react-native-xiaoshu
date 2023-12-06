@@ -1,6 +1,6 @@
 /**
  * title: 基础用法
- * desc: 通过函数的方式使用。
+ * description: 通过函数的方式使用。
  */
 
 import React from 'react'

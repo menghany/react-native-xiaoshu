@@ -1,6 +1,6 @@
 /**
  * title: 细边框
- * desc: 适用于小按钮。
+ * description: 适用于小按钮。
  */
 
 import React, { memo } from 'react'

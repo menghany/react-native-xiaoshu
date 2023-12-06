@@ -1,3 +1,4 @@
+import type { DimensionValue } from 'react-native'
 import { StyleSheet } from 'react-native'
 
 import type { TokensType } from '../theme/interface'
@@ -36,8 +37,8 @@ export const styleCreator = (cv: ComponentVars) => {
       flex: 1,
       width: '100%',
       alignItems: 'center',
-      paddingTop: cv.toast_position_top_distance,
-      paddingBottom: cv.toast_position_bottom_distance,
+      paddingTop: cv.toast_position_top_distance as DimensionValue,
+      paddingBottom: cv.toast_position_bottom_distance as DimensionValue,
     },
 
     inner: {
@@ -45,7 +46,7 @@ export const styleCreator = (cv: ComponentVars) => {
       borderRadius: cv.toast_border_radius,
       paddingHorizontal: cv.toast_inner_padding_horizontal,
       paddingVertical: cv.toast_inner_padding_vertical,
-      maxWidth: cv.toast_max_width,
+      maxWidth: cv.toast_max_width as DimensionValue,
       minHeight: cv.toast_inner_min_height,
       width: cv.toast_inner_width,
       justifyContent: 'center',

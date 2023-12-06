@@ -2,11 +2,9 @@
 title: Badge 徽标
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Badge 徽标
@@ -25,7 +23,7 @@ group:
 
 ## API
 
-<API hideTitle src="./badge.tsx"></API>
+<API hideTitle id="Badge"></API>
 
 ## 主题定制
 

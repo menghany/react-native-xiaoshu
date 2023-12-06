@@ -2,11 +2,9 @@
 title: Selector 选择器
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # Selector 选择器
@@ -27,11 +25,11 @@ group:
 
 ### Selector
 
-<API hideTitle src="./selector.tsx"></API>
+<!-- <API hideTitle src="./selector.tsx"></API> -->
 
 ### Selector.Text
 
-<API hideTitle src="./selector-text.tsx"></API>
+<!-- <API hideTitle src="./selector-text.tsx"></API> -->
 
 ## 主题定制
 

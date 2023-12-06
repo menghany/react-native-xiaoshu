@@ -2,11 +2,9 @@
 title: BottomBar 底部工具
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # BottomBar 底部工具
@@ -15,7 +13,7 @@ group:
 
 ## API
 
-<API hideTitle src="./bottom-bar.tsx"></API>
+<API hideTitle id="BottomBar"></API>
 
 ## 主题定制
 

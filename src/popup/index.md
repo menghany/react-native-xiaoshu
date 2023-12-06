@@ -2,11 +2,9 @@
 title: Popup 弹出层
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 0
+  order: 1
 ---
 
 # Popup 弹出层
@@ -39,11 +37,11 @@ group:
 
 `Popup` 与 `Popup.Component` 属性相同，`Popup` 被 `Portal` 组件包裹，在根节点渲染。
 
-<API hideTitle src="./popup.tsx"></API>
+<!-- <API hideTitle src="./popup.tsx"></API> -->
 
 ### Popup.Header
 
-<API hideTitle src="./popup-header.tsx"></API>
+<!-- <API hideTitle src="./popup-header.tsx"></API> -->
 
 ### Popup.Page <Badge>0.2.47+</Badge>
 
@@ -51,7 +49,7 @@ group:
 
 `Popup.Page` 与 `Popup.PageComponent` 属性相同，`Popup.Page` 被 `Portal` 组件包裹，在根节点渲染。
 
-<API hideTitle src="./popup-page.tsx"></API>
+<!-- <API hideTitle src="./popup-page.tsx"></API> -->
 
 ### Popup.KeyboardShim
 

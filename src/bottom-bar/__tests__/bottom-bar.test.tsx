@@ -34,11 +34,11 @@ describe('Blank', () => {
     )
 
     act(() => {
-      RCTDeviceEventEmitter.emit('keyboardDidShow', {})
+      RCTDeviceEventEmitter.DeviceEventEmitter.emit('keyboardDidShow', {})
     })
 
     act(() => {
-      RCTDeviceEventEmitter.emit('keyboardDidHide', {})
+      RCTDeviceEventEmitter.DeviceEventEmitter.emit('keyboardDidHide', {})
     })
   })
 

@@ -2,11 +2,9 @@
 title: Overlay 遮罩层
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # Overlay 遮罩层
@@ -21,7 +19,7 @@ group:
 
 - `backgroundColor` <Badge>0.2.17+</Badge>
 
-<API hideTitle src="./overlay.tsx"></API>
+<API hideTitle id="Overlay"></API>
 
 ## 主题定制
 

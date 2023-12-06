@@ -2,11 +2,9 @@
 title: Empty 空元素
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Empty 空元素
@@ -26,7 +24,7 @@ group:
 
 ## API
 
-<API hideTitle src="./empty.tsx"></API>
+<API hideTitle id="Empty"></API>
 
 ## 主题定制
 

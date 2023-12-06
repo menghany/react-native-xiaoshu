@@ -1,6 +1,6 @@
 /**
  * title: Checkbox 组
- * desc: 方便的从数组生成 Checkbox 组，候选项多推荐竖向，候选项少推荐横向。
+ * description: 方便的从数组生成 Checkbox 组，候选项多推荐竖向，候选项少推荐横向。
  */
 
 import React, { useState } from 'react'

@@ -2,11 +2,9 @@
 title: TabBar 标签栏
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # TabBar 标签栏
@@ -22,7 +20,7 @@ group:
 
 ## API
 
-<API hideTitle src="./tab-bar.tsx"></API>
+<API hideTitle id="TabBar"></API>
 
 ## 主题定制
 

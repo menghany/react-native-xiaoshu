@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useMemo, memo } from 'react'
-import type { ViewStyle, LayoutChangeEvent } from 'react-native'
+import type { ViewStyle, LayoutChangeEvent, DimensionValue } from 'react-native'
 import { View, useWindowDimensions } from 'react-native'
 import { Line, Svg } from 'react-native-svg'
 
@@ -30,7 +30,7 @@ const DividerLineDashed: React.FC<DividerLineProps> = ({
       return {
         flex: 1,
         width: 1,
-        height: '100%',
+        height: '100%' as DimensionValue,
       }
     }
 
@@ -48,10 +48,11 @@ const DividerLineDashed: React.FC<DividerLineProps> = ({
     }
 
     if (!adaptive) {
-      s.maxWidth =
+      s.maxWidth = (
         position === 'left'
           ? VC.divider_content_left_width
           : VC.divider_content_right_width
+      ) as DimensionValue
     }
 
     return s

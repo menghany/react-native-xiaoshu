@@ -2,22 +2,21 @@
 title: Search 搜索
 nav:
   title: 组件
-  path: /component
 group:
-  path: /form
-  order: 1
+  title: 表单组件
+  order: 2
 ---
 
 # Search 搜索
 
 > 用于搜索场景的输入框组件。
 
-<Alert type="info">
+:::info
 Search 嵌套到 ScrollView 里面会影响 clearable 响应，需要在 ScrollView 组件上添加 keyboardShouldPersistTaps="handled"
-</Alert>
-<Alert type="info">
+:::
+:::info
 handled，当点击事件被子组件捕获时，键盘不会自动收起。这样切换 TextInput 时键盘可以保持状态。多数带有 TextInput 的情况下你应该选择此项。
-</Alert>
+:::
 
 ## 元素结构
 
@@ -35,7 +34,7 @@ handled，当点击事件被子组件捕获时，键盘不会自动收起。这�
 
 ## API
 
-<API hideTitle src="./search.tsx"></API>
+<API hideTitle id="Search"></API>
 
 ## 主题定制
 

@@ -2,11 +2,9 @@
 title: WaterMark 水印
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # WaterMark 水印 <Badge>0.3.0+</Badge>
@@ -21,7 +19,7 @@ group:
 
 ## API
 
-<API hideTitle src="./water-mark.tsx"></API>
+<API hideTitle id="WaterMark"></API>
 
 ## 主题定制
 

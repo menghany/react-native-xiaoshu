@@ -2,11 +2,9 @@
 title: Result 结果
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Result 结果
@@ -21,7 +19,7 @@ react-native-svg-web 并没有提供 SvgXml 组件，web 端看不到 SVG 图形
 
 ## API
 
-<API hideTitle src="./result.tsx"></API>
+<API hideTitle id="Result"></API>
 
 ## 主题定制
 

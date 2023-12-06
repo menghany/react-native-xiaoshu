@@ -2,11 +2,9 @@
 title: Popover 气泡卡片
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # Popover 气泡卡片
@@ -27,15 +25,15 @@ group:
 
 ### Popover
 
-<API hideTitle src="./popover.tsx"></API>
+<!-- <API hideTitle src="./popover.tsx"></API> -->
 
 ### Popover.Item
 
-<API hideTitle src="./popover-item.tsx"></API>
+<!-- <API hideTitle src="./popover-item.tsx"></API> -->
 
 ### Popover.Text
 
-<API hideTitle src="./popover-text.tsx"></API>
+<!-- <API hideTitle src="./popover-text.tsx"></API> -->
 
 ## 主题定制
 

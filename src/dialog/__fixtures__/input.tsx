@@ -1,6 +1,6 @@
 /**
  * title: 输入框
- * desc: 对话框内有一个输入框，支持数字、单/多行字符串，对应 numberInput、textInput 可以自定义输入框一些属性。
+ * description: 对话框内有一个输入框，支持数字、单/多行字符串，对应 numberInput、textInput 可以自定义输入框一些属性。
  */
 
 import React from 'react'

@@ -2,11 +2,9 @@
 title: ActionSheet 动作面板
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # ActionSheet 动作面板
@@ -25,7 +23,7 @@ group:
 
 ## API
 
-<API hideTitle src="./action-sheet.tsx"></API>
+<API hideTitle id="ActionSheet"></API>
 
 ## 主题定制
 

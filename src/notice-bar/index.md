@@ -2,11 +2,9 @@
 title: NoticeBar 通知栏
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # NoticeBar 通知栏
@@ -25,7 +23,7 @@ group:
 
 ## API
 
-<API hideTitle src="./notice-bar.tsx"></API>
+<API hideTitle id="NoticeBar"></API>
 
 ## 主题定制
 

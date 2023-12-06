@@ -2,11 +2,9 @@
 title: Uploader 文件上传
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Uploader 文件上传
@@ -21,11 +19,11 @@ group:
 
 ### Uploader
 
-<API hideTitle src="./uploader.tsx"></API>
+<!-- <API hideTitle src="./uploader.tsx"></API> -->
 
 ### Uploader.Regular <Badge>0.2.47+</Badge>
 
-<API hideTitle src="./uploader-regular.tsx"></API>
+<!-- <API hideTitle src="./uploader-regular.tsx"></API> -->
 
 ## 主题定制
 

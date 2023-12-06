@@ -2,11 +2,9 @@
 title: Blank 留白
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 0
+  order: 1
 ---
 
 # Blank 留白 <Badge>0.2.3+</Badge>
@@ -24,7 +22,7 @@ group:
 
 ## API
 
-<API hideTitle src="./blank.tsx"></API>
+<API hideTitle id="Blank"></API>
 
 ## 主题定制
 

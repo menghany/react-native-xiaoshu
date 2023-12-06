@@ -2,11 +2,9 @@
 title: Checkbox 复选框
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # Checkbox 复选框
@@ -31,15 +29,15 @@ group:
 
 ### Checkbox
 
-<API hideTitle src="./checkbox.tsx"></API>
+<!-- <API hideTitle src="./checkbox.tsx"></API> -->
 
 ### Checkbox.Icon
 
-<API hideTitle src="./checkbox-icon.tsx"></API>
+<!-- <API hideTitle src="./checkbox-icon.tsx"></API> -->
 
 ### Checkbox.Group
 
-<API hideTitle src="./checkbox-group.tsx"></API>
+<!-- <API hideTitle src="./checkbox-group.tsx"></API> -->
 
 ## 主题定制
 

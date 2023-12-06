@@ -1,6 +1,6 @@
 /**
  * title: 基础用法
- * desc: 采用函数的方式使用，自定义标题、message、按钮。
+ * description: 采用函数的方式使用，自定义标题、message、按钮。
  */
 
 import React from 'react'

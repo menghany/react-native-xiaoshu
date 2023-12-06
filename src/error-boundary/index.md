@@ -2,11 +2,9 @@
 title: ErrorBoundary 错误捕获
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # ErrorBoundary 错误捕获
@@ -19,4 +17,4 @@ group:
 
 ## API
 
-<API hideTitle></API>
+<API hideTitle id="ErrorBoundary"></API>

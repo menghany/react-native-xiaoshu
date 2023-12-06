@@ -2,11 +2,9 @@
 title: Dropdown 下拉菜单
 nav:
   title: 组件
-  path: /component
 group:
   title: 反馈组件
-  path: /feedback
-  order: 2
+  order: 3
 ---
 
 # Dropdown 下拉菜单
@@ -29,25 +27,25 @@ group:
 
 ### Dropdown
 
-<API hideTitle src="./dropdown-menu.tsx"></API>
+<!-- <API hideTitle src="./dropdown-menu.tsx"></API> -->
 
 ### Dropdown.Item
 
 - `options` 支持树结构 <Badge>0.2.13+</Badge>
 
-<API hideTitle src="./dropdown-item.tsx">
+<!-- <API hideTitle src="./dropdown-item.tsx"> -->
 
 ### Dropdown.Multiple <Badge>0.3.9+</Badge>
 
-<API hideTitle src="./dropdown-multiple.tsx">
+<!-- <API hideTitle src="./dropdown-multiple.tsx"> -->
 
 ### Dropdown.Text <Badge>0.2.42+</Badge>
 
-<API hideTitle src="./dropdown-text.tsx">
+<!-- <API hideTitle src="./dropdown-text.tsx"> -->
 
 ### Dropdown.Popup <Badge>0.2.42+</Badge>
 
-<API hideTitle src="./dropdown-popup.tsx">
+<!-- <API hideTitle src="./dropdown-popup.tsx"> -->
 
 ## 主题定制
 

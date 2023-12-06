@@ -2,11 +2,9 @@
 title: Theme 主题
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 0
+  order: 1
 ---
 
 # Theme 主题

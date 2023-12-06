@@ -2,11 +2,9 @@
 title: DatePickerView 时间选择器视图
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # DatePickerView 时间选择器视图
@@ -17,4 +15,4 @@ group:
 
 <code src="./__fixtures__/basic.tsx"></code>
 
-<API src="./date-picker-view.tsx"></API>
+<API id="DatePickerView"></API>

@@ -2,11 +2,9 @@
 title: Collapse 折叠面板
 nav:
   title: 组件
-  path: /component
 group:
   title: 展示组件
-  path: /show
-  order: 3
+  order: 4
 ---
 
 # Collapse 折叠面板
@@ -25,7 +23,7 @@ group:
 
 ## API
 
-<API hideTitle src="./collapse.tsx"></API>
+<API hideTitle id="Collapse"></API>
 
 ## 主题定制
 

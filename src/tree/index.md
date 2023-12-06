@@ -2,11 +2,9 @@
 title: Tree 树形控件
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # Tree 树形控件 <Badge>0.3.0+</Badge>
@@ -29,7 +27,7 @@ group:
 
 ## API
 
-<API hideTitle src="./tree.tsx" exports='["default"]'></API>
+<API hideTitle id="Tree"></API>
 
 ## 注意事项
 

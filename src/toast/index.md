@@ -2,11 +2,9 @@
 title: Toast 轻提示
 nav:
   title: 组件
-  path: /component
 group:
   title: 基础组件
-  path: /basic
-  order: 0
+  order: 1
 ---
 
 # Toast 轻提示
@@ -30,9 +28,9 @@ Toast.clear 暂时未实现。
 
 Toast.setDefaultOptions 设置默认参数，例如是否背景可以点击、持续时长。
 
-<Alert type="warning">
-  如果是同步关闭提示，使用 setTimeout 做一下延迟。
-</Alert>
+:::warning
+如果是同步关闭提示，使用 setTimeout 做一下延迟。
+:::
 
 ```js | pure
 const doCheck = () => {
@@ -56,7 +54,7 @@ const doCheck = () => {
 
 ### Toast
 
-<API hideTitle src="./toast.tsx"></API>
+<API hideTitle id="Toast"></API>
 
 ## 主题定制
 

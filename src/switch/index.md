@@ -2,11 +2,9 @@
 title: Switch 开关
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # Switch 开关
@@ -25,7 +23,7 @@ group:
 
 - `activeChildren`、`inactiveChildren` <Badge>0.3.17+</Badge>
 
-<API hideTitle src="./switch.tsx"></API>
+<API hideTitle id="Switch"></API>
 
 ## 主题定制
 

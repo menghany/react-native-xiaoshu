@@ -2,11 +2,9 @@
 title: DatePicker 时间选择器
 nav:
   title: 组件
-  path: /component
 group:
   title: 表单组件
-  path: /form
-  order: 1
+  order: 2
 ---
 
 # DatePicker 时间选择器
@@ -25,15 +23,15 @@ group:
 
 ### DatePicker
 
-<API hideTitle src="./date-picker-single-method.tsx"></API>
+<!-- <API hideTitle src="./date-picker-single-method.tsx"></API> -->
 
 ### DatePicker.range
 
-<API hideTitle src="./date-picker-range-method.tsx"></API>
+<!-- <API hideTitle src="./date-picker-range-method.tsx"></API> -->
 
 ### DatePicker.RangeView
 
-<API hideTitle src="./date-picker-range-view.tsx"></API>
+<!-- <API hideTitle src="./date-picker-range-view.tsx"></API> -->
 
 ## 主题定制
 

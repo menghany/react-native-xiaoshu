@@ -1,6 +1,6 @@
 /**
  * title: 图标
- * desc: 复选框选择图标，可以独立使用。
+ * description: 复选框选择图标，可以独立使用。
  */
 
 import React from 'react'

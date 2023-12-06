@@ -1,6 +1,6 @@
 /**
  * title: 自定义
- * desc: 支持自定义选中、未选中的值、颜色。
+ * description: 支持自定义选中、未选中的值、颜色。
  */
 
 import React from 'react'
