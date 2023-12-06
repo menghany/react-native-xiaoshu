@@ -29,6 +29,7 @@ export default defineConfig({
   alias: {
     'react-native$': 'react-native-web',
     'react-native-svg$': 'react-native-svg-web',
+    // 'react-native-svg$': 'react-native-svg/lib/commonjs/ReactNativeSVG',
     'react-native-safe-area-context':
       'expo-dev-menu/vendored/react-native-safe-area-context/src',
     '../Utilities/Platform': 'react-native-web/dist/exports/Platform',
