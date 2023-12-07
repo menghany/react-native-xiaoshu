@@ -30,11 +30,12 @@ export default defineConfig({
     'react-native$': 'react-native-web',
     'react-native-svg$': 'react-native-svg-web',
     // 'react-native-svg$': 'react-native-svg/lib/commonjs/ReactNativeSVG',
+    // https://mmomtchev.medium.com/bundling-react-native-for-the-web-with-webpack-and-typescript-ba42db25584
     'react-native-safe-area-context':
       'expo-dev-menu/vendored/react-native-safe-area-context/src',
-    '../Utilities/Platform': 'react-native-web/dist/exports/Platform',
-    '../../Utilities/Platform': 'react-native-web/dist/exports/Platform',
-    './Platform': 'react-native-web/dist/exports/Platform',
+    // '../Utilities/Platform': 'react-native-web/dist/exports/Platform',
+    // '../../Utilities/Platform': 'react-native-web/dist/exports/Platform',
+    // './Platform': 'react-native-web/dist/exports/Platform',
   },
   themeConfig: {
     name: '小暑',
